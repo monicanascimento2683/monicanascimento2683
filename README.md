@@ -1,0 +1,5 @@
+- 👋 Hi, I’m  a  Mônica Nascimento
+-  Sou uma pessoa tranquila, proativa, colaborativa e criativa, estou sempre em busca de novos desafios e oportunidades para melhorar minhas habilidades e ampliar meus conheiemtos
+- Atualmente estou aprendendo a programar, sempre gostei de tecnologias, mas nunca imaginei que podia fazer parte dela.
+-  estou me aperfeicoando e buscando novos desafios.
+- 📫 How to reach me ...
