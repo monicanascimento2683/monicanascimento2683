@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  a  Mônica Nascimento
    <br>
--  Sou uma pessoa tranquila, proativa, colaborativa e criativa, estou sempre em busca de novos desafios e oportunidades para melhorar          minhas habilidades e ampliar meus conhecimentos.
+- Estou sempre em busca de novos desafios e oportunidades para melhorar minhas habilidades e ampliar meus conhecimentos.
 - Atualmente estou aprendendo a programar, criando projetos com:
 - <br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
