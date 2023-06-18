@@ -3,3 +3,4 @@
 - Atualmente estou aprendendo a programar, sempre gostei de tecnologias, mas nunca imaginei que podia fazer parte dela.
 -  estou me aperfeicoando e buscando novos desafios.
 - 📫 How to reach me ...
+- Meu linkedin: https://www.linkedin.com/in/m%C3%B4nica-nascimento-25690937
