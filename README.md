@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  a  Mônica Nascimento
    <br>
 - Estou sempre em busca de novos desafios e oportunidades para melhorar minhas habilidades e ampliar meus conhecimentos.
-- Atualmente estou aprendendo a programar, criando projetos com:
+- Atualmente estou programando, criando projetos com:
 - <br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
